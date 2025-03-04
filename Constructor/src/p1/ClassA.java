@@ -30,5 +30,6 @@ public class ClassA {
 		ob.meth1();
 		
 	}
+	//kkkkk
 
 }
